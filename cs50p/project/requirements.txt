@@ -1,0 +1,6 @@
+selenium
+schedule
+yagmail
+python-dotenv
+pytest
+pytest-mock

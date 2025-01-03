@@ -5,7 +5,7 @@ import schedule
 import time
 
 
-service = Service("/usr/local/bin/geckodriver")
+service = Service("/usr/bin/geckodriver")
 driver = webdriver.Firefox(service=service)
 
 global ids
